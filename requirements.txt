@@ -110,6 +110,7 @@ xgboost==3.0.0
 yarg==0.1.9
 yfinance==0.2.61
 streamlit_option_menu
-pycaret
+pycaret==2.3.10
+
 
 
