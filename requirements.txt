@@ -5,5 +5,4 @@ numpy
 plotly
 joblib
 matplotlib
-pycaret[ml]==2.3.10
 scikit-learn
